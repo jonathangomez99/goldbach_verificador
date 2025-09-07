@@ -2,8 +2,8 @@ import gmpy2
 import os
 
 # Archivos de progreso y alertas
-PROGRESO_FILE = "/home/jagg/Documentos/programacion/python_projects/goldbach_python/ultimo_numero.txt"
-ALERT_FILE = "/home/jagg/Documentos/programacion/python_projects/goldbach_python/alertas_goldbach.txt"
+PROGRESO_FILE = "ultimo_numero.txt"
+ALERT_FILE = "alertas_goldbach.txt"
 
 LIMITE_CRIBA = 10**6  # primos pequeños precalculados
 
